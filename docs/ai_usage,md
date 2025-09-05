@@ -4,3 +4,13 @@
 - Snippet of prompt(s):
 - What I changed before committing:
 - How I verified correctness (tests, sample data):
+
+**Date/Time:** I did Rosalind one and two on Sept. 2, 2025, 10:57 p.m. (CT)  
+- **Tool/model & version:** Google Gemini (via Google Colab), accessed Sept. 2, 2025
+- **What I asked for:**  I copied the questions and answer of the original questions and asked Gemini to explain how they got the answer. it generated the code and run it.
+- **What I changed before committing:**  
+  - Used my own variable names and comments.  
+  
+- **How I verified correctness (tests, sample data):**  
+  - Manually checked with `a=983`, `b=961`: `983**2 + 961**2 = 1,889,810`.  
+  - Re-ran with a few small values (e.g., 3 and 4 → 25) to confirm behavior.
