@@ -17,6 +17,3 @@ This repository contains my work for **Module 03** of the Beginning Bioinformati
 ## AI Assistance
 
 AI tools were used sparingly for guidance and code structure suggestions. Full citations and notes on AI prompts, edits, and verification are in `docs/ai_usage.md`.
-
-**Repository URL:**  
-[Full repository](https://github.com/<your_username>/bioinformatics-rosalind)
