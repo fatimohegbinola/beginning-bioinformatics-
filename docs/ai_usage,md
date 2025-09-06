@@ -14,3 +14,31 @@ Date/Time: I did Rosalind one and two on Sept. 2, 2025, 10:57 p.m. (CT)
 - How I verified correctness (tests, sample data): 
   - Manually checked with `a=983`, `b=961`: `983**2 + 961**2 = 1,889,810`.  
   - Also starting with the example is a good way to be sure
+
+
+# AI USE LOG - ROSALIND BIOINFORMATICS PROBLEMS
+# Date: September 9, 2025
+# Completion Time: Multiple sessions across two days
+# TOOLS & MODELS USED:
+ - Google Gemini (accessed via Google Colab)
+ - ChatGPT (GPT-4 version)
+# PURPOSE OF AI ASSISTANCE:
+ - Explanations of sample code functionality
+# SAMPLE PROMPTS USED:
+"""
+ "Can you break down this sample dataset result"
+"""
+# MODIFICATIONS MADE BEFORE COMMITTING:
+ - Additional comments 
+ - Input validation and error handling
+# VERIFICATION METHODOLOGY:
+ - Initial testing with provided sample datasets
+ - Cross-validation with expected sample outputs 
+ - Manual calculation verification (e.g., 983² + 961² = 1,889,810)
+ - Final validation on main Rosalind datasets
+# ADDITIONAL NOTES:
+ - Prior Python experience accelerated problems 3-6 completion
+ - AI explanations particularly helpful for recurrence relations
+ - Used hints section for main dataset requirements
+ - Currently studying Beginning Bioinformatics Part Three
+ - Step-by-step guidance IN  Beginning Bioinformatics Part Three is very helpful
