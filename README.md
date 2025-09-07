@@ -1,5 +1,7 @@
 # beginning-bioinformatics-
 Beginning bioinformatics BIOL5340-001
+Fatimoh Egbinola + 1002298290 + BIOL5340-001
+
 ---
 
 ## Overview
